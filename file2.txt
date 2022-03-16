@@ -1,3 +1,9 @@
+<<<<<<< .merge_file_LfMx52
 Benfica segue para os 1/4 de final da Champions.
 
 E agora? Quem vai ficar nos 1/4?
+=======
+Benfica segue para os 1/4 de final da Champions. 
+
+Quem será a próxima "vítima"?
+>>>>>>> .merge_file_aX7AQk
